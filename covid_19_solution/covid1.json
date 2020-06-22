@@ -1,0 +1,16 @@
+var unirest = require("unirest");
+
+var req = unirest("GET", "https://coronavirus-covid-19-global-stats-over-time-json-data.p.rapidapi.com/");
+
+req.headers({
+	"x-rapidapi-host": "coronavirus-covid-19-global-stats-over-time-json-data.p.rapidapi.com",
+	"x-rapidapi-key": "35cdd1c09bmshbc5e0bb0bc34a16p1d7a69jsn84fd0643e3d4",
+	"useQueryString": true
+});
+
+
+req.end(function (res) {
+	if (res.error) throw new Error(res.error);
+
+	console.log(res.body);
+});

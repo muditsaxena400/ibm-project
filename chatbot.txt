@@ -1,0 +1,31 @@
+assistant id-    62e8b3ec-ebd1-4aac-b90e-59c8851b1504
+api key-   sW_tMvwOMMzEMGQoUWYLT3CZ9uBtYc3ldzyx8lygcU72
+
+Skill ID:19a54a40-3e11-4a47-b62a-34785fdd2c3a
+
+discovery API key: mcd7_2ZpQ7tMNgLXYc5d79pvf9HGJ21x9AcD9nFOIsNB
+discovery url: https://api.eu-gb.discovery.watson.cloud.ibm.com/instances/4bb931ce-cced-405b-967d-6ddd7bcfdede
+
+discovery collection id: news-en
+discovery evironmet id: system
+
+
+weather company Your API Key: dc5ea0e10f11465f9ea0e10f11e65fa6
+
+http url:  https://eu-gb.functions.cloud.ibm.com/api/v1/web/cu.17bcs1829%40gmail.com_dev/default/covid.json
+
+rest api :  https://eu-gb.functions.cloud.ibm.com/api/v1/namespaces/cu.17bcs1829%40gmail.com_dev/actions/covid.json
+
+covid19_solution app verification token:  Ax1v0LBV8ySBNDhEVLc1LA6I
+
+Bot User OAuth Access Token:  xoxb-1208703691937-1208711830801-UdoJz3GtkFvGVj3w5QT6ZFwM
+
+flood assistant id: 41b86fcb-3432-4ada-aee6-88bf00e2b813
+
+flood api key: sW_tMvwOMMzEMGQoUWYLT3CZ9uBtYc3ldzyx8lygcU72
+
+flood assistant url: https://api.eu-gb.assistant.watson.cloud.ibm.com
+
+flood_info slack app verificatrio token flood:  don6zDlUoldRqUL07uJLmnD1
+
+ 
